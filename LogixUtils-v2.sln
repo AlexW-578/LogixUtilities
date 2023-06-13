@@ -1,5 +1,5 @@
 ﻿Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{47561A7C-DA9A-4362-877E-BBFD35328A2B}") = "ModNameGoesHere", "ModNameGoesHere\ModNameGoesHere.csproj", "{47561A7C-DA9A-4362-877E-BBFD35328A2B}"
+Project("{47561A7C-DA9A-4362-877E-BBFD35328A2B}") = "LogixUtils-v2", "LogixUtils-v2\LogixUtils-v2.csproj", "{47561A7C-DA9A-4362-877E-BBFD35328A2B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

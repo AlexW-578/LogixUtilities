@@ -4,11 +4,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("LogixUtils-v2")]
+[assembly: AssemblyTitle("LogixUtilities")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("AlexW-578")]
-[assembly: AssemblyProduct("LogixUtils-v2")]
+[assembly: AssemblyProduct("LogixUtilities")]
 [assembly: AssemblyCopyright("Copyright © AlexW-578 2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -19,7 +19,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("47561A7C-DA9A-4362-877E-BBFD35328A2B")]
+[assembly: Guid("47561A7C-DA9A-4362-877E-BBFD35328A3B")]
 
 // Version information for an assembly consists of the following four values:
 //
